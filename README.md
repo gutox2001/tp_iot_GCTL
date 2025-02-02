@@ -1,4 +1,4 @@
-# SQMA
+# GCTL - Great Class To Learn
 
 Repositório referente ao trabalho prático final da disciplina de Internet das Coisas - CCF 351.
 
@@ -11,6 +11,8 @@ Repositório referente ao trabalho prático final da disciplina de Internet das 
 ### Proposta de Solução
 
     Desenvolver um sistema que monitora as condições do ambiente (temperatura, luminosidade e nível de ruído) em tempo real e envia esses dados para a Arduino IoT Cloud, onde podem ser visualizados remotamente por um smartphone ou computador.
+
+    Inicialmente somente envolve áudio.
 
 ### Como o Sistema Funciona?
 
@@ -25,9 +27,9 @@ Repositório referente ao trabalho prático final da disciplina de Internet das 
 
 ## Integrantes
 
-- [Aroldo Augusto Barbosa Simões](https://www.linkedin.com/in/aroldo-augusto-cdc/);
-- [Yuri]();
+-   [Aroldo Augusto Barbosa Simões](https://www.linkedin.com/in/aroldo-augusto-cdc/);
+-   [Yuri]();
 
 ## Links importantes
 
-- [Documento - Anotações Gerais](https://docs.google.com/document/d/14d6TiXig1_CVbBD4NtJ0yktLR8rgz7u5uddUJqpJCKU/edit?tab=t.0#heading=h.pp86wgktk2ar)
+-   [Documento - Anotações Gerais](https://docs.google.com/document/d/14d6TiXig1_CVbBD4NtJ0yktLR8rgz7u5uddUJqpJCKU/edit?tab=t.0#heading=h.pp86wgktk2ar)
